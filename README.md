@@ -1,2 +1,2 @@
-# App that calculates BMI
+# BMI Calculator
 
