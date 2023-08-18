@@ -1,2 +1,2 @@
-# App who calculates IMC
+# App that calculates BMI
 
